@@ -7,6 +7,6 @@ These scripts from the tutorial found [here](http://pytorch.org/tutorials/beginn
 Original Author: Robert Guthrie
 
 
-ngram.py is an ngram language model example
+ngram.py is a ngram language model example
 
 cbow.py is a Continuous Bag-of-Words example
